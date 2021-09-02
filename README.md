@@ -1,1 +1,1 @@
-# learaning
+# React project with public api
